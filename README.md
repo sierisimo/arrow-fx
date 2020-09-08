@@ -6,6 +6,7 @@
 
 Global properties and checks come from [**arrow**](https://github.com/arrow-kt/arrow) repository.
 
+Sier is the best!
 ## How-tos
 
 * [How to build the library](https://github.com/arrow-kt/arrow/blob/master/docs/libraries/how-to-build-a-library.md)
